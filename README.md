@@ -1,4 +1,4 @@
-# Auth-Gollum-Wiki-Image
+# Gollum-Authentication-Docker-Image
 A ready-to-use docker image for Github-Synchronized, Markdown-based, and Auth-Enabled Wiki System. No environment issues anymore. Get docker installed and set up your Wiki in a second!
 
 A live demo is available [here](http://www.nan-zhou.com:4567).    
